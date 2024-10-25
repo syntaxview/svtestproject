@@ -4,8 +4,6 @@
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/486/original/material-tailwind-kit-react.jpg)
 
-Material Tailwind Kit React is our newest free Material Tailwind UI Kit based on Tailwind CSS and React. If you’re a developer looking to create an ui kit that is developer-friendly, rich with features, and highly customisable, here is your match. Our innovative Material Tailwind, Tailwind CSS & React ui kit comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
-
 **Fully Coded Elements**
 
 Material Tailwind Kit React is built with over 40 frontend individual elements coming from @material-tailwind/react, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using props and tailwind css classnames. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
