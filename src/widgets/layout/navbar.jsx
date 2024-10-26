@@ -121,14 +121,14 @@ export function Navbar({ brandName, routes, action }) {
 }
 
 Navbar.defaultProps = {
-  brandName: "Material Tailwind React",
+  brandName: "SYNTAX VIEW",
   action: (
     <a
       href="https://www.creative-tim.com/product/material-tailwind-kit-react"
       target="_blank"
     >
       <Button variant="gradient" size="sm" fullWidth>
-        free download
+        free download DFGDGSD
       </Button>
     </a>
   ),
